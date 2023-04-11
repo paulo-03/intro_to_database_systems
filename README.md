@@ -2,8 +2,8 @@
 
 ## Description
 
-In this repository, you will found the semester project (split in parts named "deliverable_{int}") of the course CS-322 at EPFL. 
+This repository contains the semester project for the CS-322 course at EPFL, split into parts named "deliverable_{int}".
 
-The first part (deliverable_1) of the project analyze the dataset and extract the ER (Entity-Relationship) model, translate it to a Relational Schema, and explain which elements of the dataset need to be cleaned and how it should be modified to follow our relational schema, with reasonable assumptions based on the available data.
+The first part (deliverable_1) of the project involves analyzing the dataset, extracting the ER (Entity-Relationship) model, translating it to a Relational Schema, and explaining which elements of the dataset need to be cleaned and how it should be modified to conform to our relational schema. Reasonable assumptions are made based on the available data.
 
-The second part (deliverable_1 & deliverable_2) of the project starts with an ER model and relational schema that is provide to us, with the data cleaned and ready to use. We created the database on a server based on some specifications, load the data, and then continue with querying to find certain insights and optimize certain queries to get acquainted with DBMS and the query optimizer.
+The second part (deliverable_1 & deliverable_2) of the project begins with an ER model and relational schema provided to us, with the data cleaned and ready to use. We create the database on a server based on some specifications, load the data, and proceed with querying to find certain insights and optimize certain queries to familiarize ourselves with DBMS and the query optimizer.
